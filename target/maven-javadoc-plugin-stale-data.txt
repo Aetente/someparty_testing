@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.11\bin\javadoc.exe" @options @packages"
+d:\dev\university\ANL\testing\someparty\target\apidocs\allclasses-index.html = 1626361235008
+d:\dev\university\ANL\testing\someparty\target\apidocs\allclasses.html = 1626361235032
+d:\dev\university\ANL\testing\someparty\target\apidocs\allpackages-index.html = 1626361235016
+d:\dev\university\ANL\testing\someparty\target\apidocs\constant-values.html = 1626361234928
+d:\dev\university\ANL\testing\someparty\target\apidocs\deprecated-list.html = 1626361235028
+d:\dev\university\ANL\testing\someparty\target\apidocs\element-list = 1626361234896
+d:\dev\university\ANL\testing\someparty\target\apidocs\help-doc.html = 1626361235048
+d:\dev\university\ANL\testing\someparty\target\apidocs\index-all.html = 1626361235000
+d:\dev\university\ANL\testing\someparty\target\apidocs\index.html = 1626361235036
+d:\dev\university\ANL\testing\someparty\target\apidocs\member-search-index.js = 1626361234992
+d:\dev\university\ANL\testing\someparty\target\apidocs\member-search-index.zip = 1626361234996
+d:\dev\university\ANL\testing\someparty\target\apidocs\options = 1626361232890
+d:\dev\university\ANL\testing\someparty\target\apidocs\overview-tree.html = 1626361234960
+d:\dev\university\ANL\testing\someparty\target\apidocs\package-search-index.js = 1626361234984
+d:\dev\university\ANL\testing\someparty\target\apidocs\package-search-index.zip = 1626361234988
+d:\dev\university\ANL\testing\someparty\target\apidocs\packages = 1626361232894
+d:\dev\university\ANL\testing\someparty\target\apidocs\script.js = 1626361235056
+d:\dev\university\ANL\testing\someparty\target\apidocs\search.js = 1626361235060
+d:\dev\university\ANL\testing\someparty\target\apidocs\stylesheet.css = 1626361235056
+d:\dev\university\ANL\testing\someparty\target\apidocs\type-search-index.js = 1626361234992
+d:\dev\university\ANL\testing\someparty\target\apidocs\type-search-index.zip = 1626361234992
